@@ -1,5 +1,4 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff4d4d,ffd633&height=200&section=header&text=Data%20%26%20AI%20Portfolio&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center" style="color:#cc0000;">Aryan Sonawane</h1>
@@ -93,7 +92,7 @@ Data Analyst | Machine Learning Engineer | Visualization Specialist
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryansonu007&layout=compact&theme=default"/>
 
 </p>
 
