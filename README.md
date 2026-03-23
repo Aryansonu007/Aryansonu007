@@ -1,10 +1,12 @@
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=cc0000&size=22&center=true&vCenter=true&width=750&lines=Data+Enthusiast+and+Insight+Driven+Thinker;Visual+Analytics+and+Dashboard+Specialist;Machine+Learning+Model+Developer;Transforming+Data+into+Actionable+Insights;Future+Data+Scientist">
 </p>
+
 
 <h1 align="center" style="color:#cc0000;">Aryan Sonawane</h1>
 
 <h3 align="center" style="color:#b38600;">
-Data Analyst | Machine Learning Engineer | Visualization Specialist
+Data Enthusiast | Visual Analytics Specialist | Machine Learning Developer
 </h3>
 
 <p align="center">
