@@ -1,5 +1,4 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=cc0000&size=22&center=true&vCenter=true&width=750&lines=Data+Enthusiast+and+Insight+Driven+Thinker;Visual+Analytics+and+Dashboard+Specialist;Machine+Learning+Model+Developer;Transforming+Data+into+Actionable+Insights;Future+Data+Scientist">
 </p>
 
 
@@ -10,7 +9,7 @@ Data Enthusiast | Visual Analytics Specialist | Machine Learning Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=cc0000&size=22&center=true&vCenter=true&width=700&lines=Machine+Learning+Developer;Data+Visualization+Expert;Streamlit+Application+Builder;Power+BI+and+Tableau+Specialist;Future+AI+Engineer">
+<img src="https://readme-typing-svg.herokuapp.com/?color=cc0000&size=22&center=true&vCenter=true&width=750&lines=Data+Enthusiast+and+Insight+Driven+Thinker;Visual+Analytics+and+Dashboard+Specialist;Machine+Learning+Model+Developer;Transforming+Data+into+Actionable+Insights;Future+Data+Scientist">
 </p>
 
 ---
