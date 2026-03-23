@@ -1,4 +1,5 @@
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff4d4d,ffd633&height=200&section=header&text=Data%20%26%20AI%20Portfolio&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center" style="color:#cc0000;">Aryan Sonawane</h1>
@@ -8,58 +9,58 @@ Data Analyst | Machine Learning Engineer | Visualization Specialist
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=cc0000&size=24&center=true&vCenter=true&width=750&lines=Machine+Learning+Developer;Data+Visualization+Expert;Streamlit+App+Builder;Power+BI+%26+Tableau+Specialist;Future+AI+Engineer">
+<img src="https://readme-typing-svg.herokuapp.com/?color=cc0000&size=22&center=true&vCenter=true&width=700&lines=Machine+Learning+Developer;Data+Visualization+Expert;Streamlit+Application+Builder;Power+BI+and+Tableau+Specialist;Future+AI+Engineer">
 </p>
 
 ---
 
-## ☀️ About Me
+## About Me
 
-* 🎓 B.Tech student focused on **Artificial Intelligence and Data Science**
-* 📊 Strong foundation in **Machine Learning, Data Analysis & Visualization**
-* 📈 Skilled in transforming raw data into **insightful dashboards and models**
-* 🚀 Passionate about building **interactive data applications**
-* 🤖 Interested in **AI-driven solutions and intelligent systems**
-
----
-
-## 💼 Experience
-
-### 🔴 Machine Learning Intern – Dramsve Education Services
-
-* Worked on **backend and frontend development**
-* Collaborated on real-world projects
-* Maintained **code quality and standards**
-
-### 🟡 ML Intern – V Analytics
-
-* Applied **Regression, Classification, Clustering**
-* Performed **data preprocessing & evaluation**
-* Built dashboards using **Power BI & visualization tools**
+* B.Tech student specializing in Artificial Intelligence and Data Science
+* Strong foundation in Machine Learning, Data Analysis and Visualization
+* Experienced in building dashboards and predictive models
+* Focused on developing scalable data-driven applications
+* Interested in applied AI and intelligent systems
 
 ---
 
-## 🔥 Projects
+## Experience
 
-### 🔴 AQI Prediction System
+### Machine Learning Intern – Dramsve Education Services
 
-* Built ML model using **Scikit-Learn**
-* Achieved high accuracy with **Random Forest & Regression**
-* Visualized insights using **Matplotlib & Seaborn**
+* Contributed to backend and frontend development
+* Collaborated with development teams on ongoing projects
+* Maintained code quality and followed development standards
 
-### 🟡 Data Visualization Dashboards
+### Machine Learning Intern – V Analytics
 
-* Developed dashboards using **Power BI & Tableau**
-* Converted complex datasets into **interactive insights**
-
-### 🔴 Streamlit Data Applications
-
-* Built interactive apps for **real-time data analysis**
-* Integrated ML models into **user-friendly interfaces**
+* Applied regression, classification and clustering algorithms
+* Performed data preprocessing and model validation
+* Developed visualizations using Power BI, Matplotlib and Seaborn
 
 ---
 
-## 🛠️ Technology Stack
+## Projects
+
+### AQI Prediction System
+
+* Developed machine learning models using Scikit-Learn
+* Achieved high accuracy using Random Forest and Linear Regression
+* Performed data visualization using Matplotlib and Seaborn
+
+### Data Visualization Dashboards
+
+* Built dashboards using Power BI and Tableau
+* Converted complex datasets into meaningful visual insights
+
+### Streamlit Data Applications
+
+* Developed interactive applications for data analysis
+* Integrated machine learning models into web interfaces
+
+---
+
+## Technology Stack
 
 <p align="center">
 
@@ -80,46 +81,47 @@ Data Analyst | Machine Learning Engineer | Visualization Specialist
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aryansonu007&show_icons=true&theme=default"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryansonu007&theme=default"/>
 
 </p>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryansonu007&layout=compact&theme=default"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryansonu007
+&layout=compact&theme=default"/>
 
 </p>
 
 ---
 
-## 📈 Learning & Growth
+## Learning and Development
 
-* Advanced **Machine Learning Techniques**
-* Data Visualization & Dashboard Design
-* AI-powered applications using **LangChain**
-* Building scalable **data-driven systems**
-
----
-
-## 🎯 Career Vision
-
-To become a **Data Scientist / AI Engineer** building intelligent systems, dashboards and scalable ML solutions.
+* Advanced Machine Learning techniques
+* Data visualization and dashboard design
+* AI applications using LangChain
+* Scalable data-driven system development
 
 ---
 
-## 📫 Connect With Me
+## Career Objective
 
-🔗 LinkedIn
+To build a career as a Data Scientist or AI Engineer focused on developing intelligent systems, scalable machine learning models and impactful data solutions.
+
+---
+
+## Contact
+
+LinkedIn
 https://www.linkedin.com/in/aryan-sonawane-75327b282
 
-📧 Email
-mailto: aryans.nsk@gmail.com
+Email
+[aryans.nsk@gmail.com](mailto:aryans.nsk@gmail.com)
 
 ---
 
