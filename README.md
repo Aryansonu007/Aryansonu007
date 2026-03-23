@@ -42,21 +42,72 @@ Data Analyst | Machine Learning Engineer | Visualization Specialist
 
 ## Projects
 
-### AQI Prediction System
+---
 
-* Developed machine learning models using Scikit-Learn
-* Achieved high accuracy using Random Forest and Linear Regression
-* Performed data visualization using Matplotlib and Seaborn
+### VanRakshak
 
-### Data Visualization Dashboards
+<p>
+<img src="https://img.shields.io/badge/Python-cc0000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-ffd633?style=for-the-badge&logo=tensorflow&logoColor=black"/>
+<img src="https://img.shields.io/badge/Librosa-cc0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-ffd633?style=for-the-badge&logo=numpy&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firebase-cc0000?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-ffd633?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Leaflet-cc0000?style=for-the-badge"/>
+</p>
 
-* Built dashboards using Power BI and Tableau
-* Converted complex datasets into meaningful visual insights
+* Built a distributed IoT-based security system for real-time gunshot detection using TensorFlow-based audio classification
+* Designed a live monitoring dashboard with GPS mapping and Firebase integration for instant alerts and multi-device synchronization
 
-### Streamlit Data Applications
+---
 
-* Developed interactive applications for data analysis
-* Integrated machine learning models into web interfaces
+### SARDetect
+
+<p>
+<img src="https://img.shields.io/badge/Python-cc0000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-ffd633?style=for-the-badge&logo=tensorflow&logoColor=black"/>
+<img src="https://img.shields.io/badge/NumPy-cc0000?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-ffd633?style=for-the-badge&logo=streamlit&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-cc0000?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+* Implemented Siamese CNN for SAR image change detection using multi-temporal satellite data
+* Developed a complete deep learning pipeline including preprocessing, training and evaluation
+
+---
+
+### DeepGuard
+
+<p>
+<img src="https://img.shields.io/badge/Python-cc0000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow/Keras-ffd633?style=for-the-badge&logo=tensorflow&logoColor=black"/>
+<img src="https://img.shields.io/badge/NumPy-cc0000?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-ffd633?style=for-the-badge&logo=pandas&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-cc0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gradio-ffd633?style=for-the-badge"/>
+</p>
+
+* Developed a deep learning model based on CNN architecture for detecting deepfake images
+* Applied fine-tuning techniques to improve detection accuracy
+* Identified synthetic facial manipulation to ensure content authenticity
+
+---
+
+### AQIPredict
+
+<p>
+<img src="https://img.shields.io/badge/Python-cc0000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-ffd633?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-cc0000?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-ffd633?style=for-the-badge&logo=numpy&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-cc0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-ffd633?style=for-the-badge&logo=jupyter&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-cc0000?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+* Built a machine learning model to predict Air Quality Index using environmental and meteorological data
+* Achieved 98% accuracy using Random Forest and 95% accuracy using Linear Regression
+
 
 ---
 
